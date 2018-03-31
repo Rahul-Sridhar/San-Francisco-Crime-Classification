@@ -22,7 +22,7 @@ The steps followed are as follows:
 * Out of the feature engineering methods suggested the one which works best on KNN is simply by taking latitude and longtitude as input data.
 * Since input data contains negative values we cannot use OVA Naive Bayes.
 * OVA SVM with linear and rbf kernel and CrammerSVM 
-* The  Algorithm gives the best accuracy of  for the given dataset.
+* The  Algorithm gives the best accuracy is KNN for the given dataset.
 
 |       Algorithm       |           Parameters           | Accuracy |
 |:----------------------|:------------------------------:|:--------:|
